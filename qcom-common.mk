@@ -81,7 +81,8 @@ PRODUCT_PACKAGES += \
     libloc_adapter \
     libgps.utils \
     libloc_eng \
-    libloc_api_v02
+    libloc_api_v02 \
+    gps.msm8660
 
 #HDMID
 PRODUCT_PACKAGES += hdmid
